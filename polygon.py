@@ -18,10 +18,16 @@ hexagon()
 penup()
 goto(-100,-100)
 pendown()
+hexagon()
 penup()
 goto(-100,100)
 pendown()
 hexagon()
+penup()
+goto(100,100)
+pendown()
+
+
 
 hideturtle()
 mainloop()

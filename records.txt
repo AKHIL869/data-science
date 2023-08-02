@@ -1,0 +1,14 @@
+alex => 50
+akhil => 30
+alex => 50
+akhil => 30
+
+alex => 50
+akhil => 30
+abhinav => 40
+ayushi => 40
+akshansha => 40
+
+harsh => 30
+kunal => 20
+
